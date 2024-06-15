@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.568674db.css",
+    "main.js": "/static/js/main.82dbace6.js",
+    "static/media/banner.mp4": "/static/media/banner.8e687823b1422880cc3f.mp4",
+    "static/media/signup-1.webp": "/static/media/signup-1.b5c8ca432e4656bf8634.webp",
+    "static/media/FoundingStory.png": "/static/media/FoundingStory.84f2828a5f4a9c08a802.png",
+    "static/media/login-2.png": "/static/media/login-2.d4f9bc47fb0f7ee05bf7.png",
+    "static/media/new_logo.png": "/static/media/new_logo.d89f27eb3e78629c5b89.png",
+    "static/media/Compare_with_others.png": "/static/media/Compare_with_others.a849beb7dbec594a4f53.png",
+    "static/media/Plan_your_lessons.png": "/static/media/Plan_your_lessons.0848277c6ae4d27c3f30.png",
+    "static/media/computer.jpg": "/static/media/computer.40c71db3a2bff1ebf136.jpg",
+    "static/media/login-4.jpg": "/static/media/login-4.5a8d20dbfe32fdc0e892.jpg",
+    "static/media/img-2.jpg": "/static/media/img-2.4ec7c845b8aa77810c4a.jpg",
+    "static/media/Know_your_progress.png": "/static/media/Know_your_progress.cf3ea1c51544985430d3.png",
+    "static/media/frame.png": "/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Instructor-2.jpg": "/static/media/Instructor-2.64d8ff1525f259cf74ed.jpg",
+    "static/media/aboutus2.webp": "/static/media/aboutus2.0a1cd797ce3a69e81830.webp",
+    "static/media/Logo2.svg": "/static/media/Logo2.2d9e85de9e756cda89ffc4582338c939.svg",
+    "static/media/Logo1.svg": "/static/media/Logo1.73daf51e41d665299fc682bc3cb53878.svg",
+    "static/media/Logo3.svg": "/static/media/Logo3.0a56f78fead602f0d54c55ddcdf7e616.svg",
+    "static/media/Logo4.svg": "/static/media/Logo4.5da4c6e0c53e6745b25529891ef82458.svg",
+    "index.html": "/index.html",
+    "main.568674db.css.map": "/static/css/main.568674db.css.map",
+    "main.82dbace6.js.map": "/static/js/main.82dbace6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.568674db.css",
+    "static/js/main.82dbace6.js"
+  ]
+}
