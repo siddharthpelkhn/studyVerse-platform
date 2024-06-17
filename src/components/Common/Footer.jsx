@@ -185,7 +185,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Copyright © 2024 StudyCraft</div>
+          <div className="text-center">Copyright © 2024 StudyVerse</div>
         </div>
       </div>
     </div>
