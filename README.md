@@ -20,6 +20,10 @@ Frontend Hosting: Vercel
 Backend Hosting: Render
 Course Data Storage: Cloudinary
 Profile Picture Generation: Dicebear API
+
+## EdTech platform StudyVerse Website Link 
+https://study-verse-platform.vercel.app/
+
 # React & Tailwind CSS Starter Pack
 
 This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
@@ -51,6 +55,3 @@ The project is set up to use `postcss-cli` to process your CSS files. You can ad
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
-
-## EdTech platform StudyVerse Website Link 
-https://study-verse-platform.vercel.app/
